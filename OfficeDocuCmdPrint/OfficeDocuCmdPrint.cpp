@@ -194,6 +194,8 @@ int main(int argc, char* argv[])
 							ofile << pUtf8 << "\";";
 							SAFE_DELETE_ARR(pUtf8);
 						}
+						if (pNode.attributes.size() != 0)
+							ofile << " }";
 
 						if (pNode.text.Length() != 0)
 						{
@@ -206,11 +208,9 @@ int main(int argc, char* argv[])
 
 							// UTF-8 output
 							pUtf8 = Unicode2Utf8((wchar_t*)pNode.text.m_str);
-							ofile << " } #" << pUtf8 << "#";
+							ofile << "#" << pUtf8 << "#";
 							SAFE_DELETE_ARR(pUtf8);
 						}
-						else
-							ofile << "}";
 
 						ofile << endl;
 					}
