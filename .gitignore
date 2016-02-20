@@ -1,0 +1,21 @@
+# Total directories
+#
+TRet/
+ipch/
+OfficeDocuCmdPrint/Debug/
+OfficeDocuCmdPrint/Release/
+x64/Debug/*.ilk
+x64/Debug/*.pdb
+x64/Release/*.pdb
+
+
+# Specific type files
+#
+*ipch
+*.ilk
+*.pdb
+*.sdf
+*.opensdf
+Debug/*.ilk
+Debug/*.pdb
+Release/*.pdb
