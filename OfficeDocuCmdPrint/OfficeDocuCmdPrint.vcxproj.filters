@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="minizip-lib">
+      <UniqueIdentifier>{33339650-035e-4a80-8cf8-b43aa277a172}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\crc32.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\crypt.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\deflate.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\gzguts.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\inffast.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\inffixed.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\inflate.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\inftrees.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\ioapi.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\ioapi_buf.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\ioapi_mem.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\iowin32.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\trees.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\unzip.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\zconf.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\zip.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\zlib.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="minizip-lib\zutil.h">
+      <Filter>minizip-lib</Filter>
+    </ClInclude>
+    <ClInclude Include="defs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OfficeDocuCmdPrint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OfficeDocuCmdPrint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="impl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -4,6 +4,7 @@ TRet/
 ipch/
 OfficeDocuCmdPrint/Debug/
 OfficeDocuCmdPrint/Release/
+OfficeDocuCmdPrint/x64/
 x64/Debug/*.ilk
 x64/Debug/*.pdb
 x64/Release/*.pdb
@@ -15,6 +16,8 @@ x64/Release/*.pdb
 *.ilk
 *.pdb
 *.sdf
+*.tlog
+*.log
 *.opensdf
 Debug/*.ilk
 Debug/*.pdb
