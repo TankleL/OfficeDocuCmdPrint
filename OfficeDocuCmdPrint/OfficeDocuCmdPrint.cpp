@@ -205,16 +205,6 @@ int main(int argc, char* argv[])
 							ofile << " } #" << pUtf8 << "#\n";
 							SAFE_DELETE_ARR(pUtf8);
 						}
-						else
-						{
-							/*
-							// Unicode ouput
-							ofile.write(" } ##(Null)##\n", 14);
-							*/
-
-							// UTF-8 output
-							ofile << " } ##(Null)##\n";
-						}
 					}
 
 
