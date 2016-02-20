@@ -202,9 +202,11 @@ int main(int argc, char* argv[])
 
 							// UTF-8 output
 							pUtf8 = Unicode2Utf8((wchar_t*)pNode.text.m_str);
-							ofile << " } #" << pUtf8 << "#\n";
+							ofile << " } #" << pUtf8 << "#";
 							SAFE_DELETE_ARR(pUtf8);
 						}
+
+						ofile << endl;
 					}
 
 
