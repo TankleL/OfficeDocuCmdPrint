@@ -209,6 +209,8 @@ int main(int argc, char* argv[])
 							ofile << " } #" << pUtf8 << "#";
 							SAFE_DELETE_ARR(pUtf8);
 						}
+						else
+							ofile << "}";
 
 						ofile << endl;
 					}
