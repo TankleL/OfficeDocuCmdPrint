@@ -167,8 +167,12 @@ int main(int argc, char* argv[])
 
 						// UTF-8 output
 						pUtf8 = Unicode2Utf8((wchar_t*)pNode.fullName.m_str);
-						ofile << " * " << pUtf8 << " {";
+						ofile << " * " << pUtf8;
 						SAFE_DELETE_ARR(pUtf8);
+
+						// Print attributes.
+						if (pNode.attributes.size() != 0)
+							ofile << " {";
 
 						for (auto& at : pNode.attributes)
 						{
