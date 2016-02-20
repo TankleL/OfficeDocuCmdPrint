@@ -1,0 +1,33 @@
+ * /xml { version = "1.0"; encoding = "UTF-8"; standalone = "yes"; } ##(Null)##
+ * /Properties { xmlns = "http://schemas.openxmlformats.org/officeDocument/2006/extended-properties"; xmlns:vt = "http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes"; } ##(Null)##
+ * /Properties/Template { } ##(Null)##
+ * /Properties/Template/#text { } #Normal.dotm#
+ * /Properties/TotalTime { } ##(Null)##
+ * /Properties/TotalTime/#text { } #1#
+ * /Properties/Pages { } ##(Null)##
+ * /Properties/Pages/#text { } #1#
+ * /Properties/Words { } ##(Null)##
+ * /Properties/Words/#text { } #798#
+ * /Properties/Characters { } ##(Null)##
+ * /Properties/Characters/#text { } #4550#
+ * /Properties/Application { } ##(Null)##
+ * /Properties/Application/#text { } #Microsoft Office Word#
+ * /Properties/DocSecurity { } ##(Null)##
+ * /Properties/DocSecurity/#text { } #0#
+ * /Properties/Lines { } ##(Null)##
+ * /Properties/Lines/#text { } #37#
+ * /Properties/Paragraphs { } ##(Null)##
+ * /Properties/Paragraphs/#text { } #10#
+ * /Properties/ScaleCrop { } ##(Null)##
+ * /Properties/ScaleCrop/#text { } #false#
+ * /Properties/Company { } ##(Null)##
+ * /Properties/LinksUpToDate { } ##(Null)##
+ * /Properties/LinksUpToDate/#text { } #false#
+ * /Properties/CharactersWithSpaces { } ##(Null)##
+ * /Properties/CharactersWithSpaces/#text { } #5338#
+ * /Properties/SharedDoc { } ##(Null)##
+ * /Properties/SharedDoc/#text { } #false#
+ * /Properties/HyperlinksChanged { } ##(Null)##
+ * /Properties/HyperlinksChanged/#text { } #false#
+ * /Properties/AppVersion { } ##(Null)##
+ * /Properties/AppVersion/#text { } #15.0000#

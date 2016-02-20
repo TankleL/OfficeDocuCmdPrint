@@ -67,6 +67,9 @@ int main(int argc, char* argv[])
 				_ERET(-10003);
 			cstrFileName[subfileInfo.size_filename] = '\0';
 
+			// Print info.
+			cout << "Detected sub-file: @" << cstrFileName << "@" << endl;
+
 			// Judge XML file
 			if (JudgeXMLFileFromName(cstrFileName) == false &&
 				JudgeRELSFileFromName(cstrFileName) == false)
@@ -76,7 +79,6 @@ int main(int argc, char* argv[])
 				continue;
 			}
 
-
 			// Open sub-file.
 			if (unzOpenCurrentFile(zfile) != ZIP_OK)
 				_ERET(-10004);
@@ -85,7 +87,6 @@ int main(int argc, char* argv[])
 			pBuf = new char[subfileInfo.uncompressed_size + 2];
 			pBuf[subfileInfo.uncompressed_size] = 0;
 			pBuf[subfileInfo.uncompressed_size + 1] = 0;
-
 			
 			// Read into buffer
 			bytesRead = unzReadCurrentFile(zfile, pBuf, (unsigned int)subfileInfo.uncompressed_size);
@@ -109,20 +110,36 @@ int main(int argc, char* argv[])
 			}
 			else
 			{
+				// Output as a file.
+				string ofilename = argv[2];
+
+				// Check out the slashes.
+				Slash2Backslash(cstrFileName);
+				Backslash2Dash(cstrFileName);
+
+				// Append name.
+				ofilename.append(cstrFileName);
+				ofilename.append(".odcp");
+
+				ofstream ofile(ofilename, ios::binary);
+				if (ofile.is_open() == false)
+					_ERET(-10006);
+
 				// Analysise mode.
 				if (argc == 4 && strcmp(argv[3], "-a") == 0)
 				{
 					wchar_t*	pUnicodeBuf = nullptr;
-					size_t		unicodelen = 0;
-
-					pUnicodeBuf = Utf82Unicode(pBuf, unicodelen);
+					pUnicodeBuf = Utf82Unicode(pBuf);
 					SAFE_DELETE_ARR(pBuf);
 
 					CComBSTR		XmlCode(pUnicodeBuf);
 					VARIANT_BOOL	bSucc = FALSE;
-									
+
+					// Release memory.
+					SAFE_DELETE_ARR(pUnicodeBuf);
+
 					// Load xml.
-					_FRETHR(hr = pXmlDoc->loadXML(XmlCode.m_str, &bSucc));	
+					_FRETHR(hr = pXmlDoc->loadXML(XmlCode.m_str, &bSucc));
 					if (bSucc == FALSE)
 						_ERET(-10005);
 
@@ -136,50 +153,68 @@ int main(int argc, char* argv[])
 
 					// Abort xml.
 					_FRETHR(hr = pXmlDoc->abort());
-					
-					// Output as a file.
-					string ofilename = argv[2];
-
-					// Check out the slashes.
-					Slash2Backslash(cstrFileName);
-					Backslash2Dash(cstrFileName);
-
-					// Append name.
-					ofilename.append(cstrFileName);
-					ofilename.append(".odcp");
-
-					ofstream ofile(ofilename, ios::binary);
-					if (ofile.is_open() == false)
-						_ERET(-10006);
-					
-					int i = 0;
+							
+					// Output
+					char*	pUtf8 = nullptr;
 					for (auto& pNode : list)
 					{
+						/*
+						// Unicode ouput
 						ofile.write((char*)L" * ", 6);
 						ofile.write((char*)pNode.fullName.m_str, 2 * pNode.fullName.Length());
 						ofile.write((char*)L" {", 4);
+						*/
+
+						// UTF-8 output
+						pUtf8 = Unicode2Utf8((wchar_t*)pNode.fullName.m_str);
+						ofile << " * " << pUtf8 << " {";
+						SAFE_DELETE_ARR(pUtf8);
 
 						for (auto& at : pNode.attributes)
 						{
+							/*
+							// Unicode ouput
 							ofile.write((char*)L" ", 2);
 							ofile.write((char*)at.name.m_str, at.name.Length()*2);
 							ofile.write((char*)L" = \"", 8);
 							ofile.write((char*)at.text.m_str, at.text.Length()*2);
 							ofile.write((char*)L"\";", 4);
+							*/
+
+							// UTF-8 output
+							pUtf8 = Unicode2Utf8((wchar_t*)at.name.m_str);
+							ofile << " " << pUtf8 << " = \"";
+							SAFE_DELETE_ARR(pUtf8);
+
+							pUtf8 = Unicode2Utf8((wchar_t*)at.text.m_str);
+							ofile << pUtf8 << "\";";
+							SAFE_DELETE_ARR(pUtf8);
 						}
 
 						if (pNode.text.Length() != 0)
 						{
+							/*
+							// Unicode ouput
 							ofile.write((char*)L" } #", 8);
 							ofile.write((char*)pNode.text.m_str, 2 * pNode.text.Length());
 							ofile.write((char*)L"#\n", 4);
+							*/
+
+							// UTF-8 output
+							pUtf8 = Unicode2Utf8((wchar_t*)pNode.text.m_str);
+							ofile << " } #" << pUtf8 << "#\n";
+							SAFE_DELETE_ARR(pUtf8);
 						}
 						else
 						{
-							ofile.write((char*)L" } ##(Null)##\n", 28);
-						}
+							/*
+							// Unicode ouput
+							ofile.write(" } ##(Null)##\n", 14);
+							*/
 
-						++i;
+							// UTF-8 output
+							ofile << " } ##(Null)##\n";
+						}
 					}
 
 
@@ -189,11 +224,12 @@ int main(int argc, char* argv[])
 				// Directly unzip mode
 				if (argc == 3)
 				{
+					ofile.write(pBuf, subfileInfo.uncompressed_size);
+					ofile.close();
 				}
 				// Wrong input arguments.
 				else
 					_ERET(-10000);
-
 
 			}
 
@@ -218,7 +254,12 @@ int main(int argc, char* argv[])
 		{
 			cout << textVersion << endl;
 		}
+		else
+			_ERET(-10000);
 	}
+	else
+		_ERET(-10000);
+
 	return 0;
 }
 

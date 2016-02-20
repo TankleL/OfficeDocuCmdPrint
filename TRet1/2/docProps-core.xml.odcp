@@ -1,0 +1,16 @@
+ * /xml { version = "1.0"; encoding = "UTF-8"; standalone = "yes"; } ##(Null)##
+ * /cp:coreProperties { xmlns:cp = "http://schemas.openxmlformats.org/package/2006/metadata/core-properties"; xmlns:dc = "http://purl.org/dc/elements/1.1/"; xmlns:dcterms = "http://purl.org/dc/terms/"; xmlns:dcmitype = "http://purl.org/dc/dcmitype/"; xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"; } ##(Null)##
+ * /cp:coreProperties/dc:title { } ##(Null)##
+ * /cp:coreProperties/dc:subject { } ##(Null)##
+ * /cp:coreProperties/dc:creator { } ##(Null)##
+ * /cp:coreProperties/dc:creator/#text { } #Tankle L#
+ * /cp:coreProperties/cp:keywords { } ##(Null)##
+ * /cp:coreProperties/dc:description { } ##(Null)##
+ * /cp:coreProperties/cp:lastModifiedBy { } ##(Null)##
+ * /cp:coreProperties/cp:lastModifiedBy/#text { } #Tankle L#
+ * /cp:coreProperties/cp:revision { } ##(Null)##
+ * /cp:coreProperties/cp:revision/#text { } #5#
+ * /cp:coreProperties/dcterms:created { xsi:type = "dcterms:W3CDTF"; } ##(Null)##
+ * /cp:coreProperties/dcterms:created/#text { } #2016-02-20T14:06:00Z#
+ * /cp:coreProperties/dcterms:modified { xsi:type = "dcterms:W3CDTF"; } ##(Null)##
+ * /cp:coreProperties/dcterms:modified/#text { } #2016-02-20T14:06:00Z#

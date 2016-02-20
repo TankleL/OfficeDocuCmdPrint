@@ -1,0 +1,1735 @@
+ * /xml { version = "1.0"; encoding = "UTF-8"; standalone = "yes"; } ##(Null)##
+ * /w:document { xmlns:wpc = "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"; xmlns:mc = "http://schemas.openxmlformats.org/markup-compatibility/2006"; xmlns:o = "urn:schemas-microsoft-com:office:office"; xmlns:r = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"; xmlns:m = "http://schemas.openxmlformats.org/officeDocument/2006/math"; xmlns:v = "urn:schemas-microsoft-com:vml"; xmlns:wp14 = "http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"; xmlns:wp = "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"; xmlns:w10 = "urn:schemas-microsoft-com:office:word"; xmlns:w = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"; xmlns:w14 = "http://schemas.microsoft.com/office/word/2010/wordml"; xmlns:w15 = "http://schemas.microsoft.com/office/word/2012/wordml"; xmlns:wpg = "http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"; xmlns:wpi = "http://schemas.microsoft.com/office/word/2010/wordprocessingInk"; xmlns:wne = "http://schemas.microsoft.com/office/word/2006/wordml"; xmlns:wps = "http://schemas.microsoft.com/office/word/2010/wordprocessingShape"; mc:Ignorable = "w14 w15 wp14"; } ##(Null)##
+ * /w:document/w:body { } ##(Null)##
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:spacing { w:line = "630"; w:lineRule = "atLeast"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "999999"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "999999"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #百度为您找到相关结果约#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "999999"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #440,000#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "999999"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #个#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "00C70E1E"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:spacing { w:after = "15"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:outlineLvl { w:val = "2"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId4"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #loadxml#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } # ms#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #xml utf8#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } # #
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #中文#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #-CSDN#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #论坛#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #-CSDN.NET-#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #中国最大的#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #IT#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #技术社区#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #28#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #条回复#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #发帖时间#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #: 2008#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #年#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #12#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #月#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #9#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "707070"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #日#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #2008#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #年#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #12#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #月#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #9#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #日#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #loadxml#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # ms#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #xml utf8#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #中文#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # [#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #问题点数#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #:100#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #分#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #,#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #结帖人#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #covsno] #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #收藏#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # covsno #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #关注#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # covsno covsno #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #本版等级#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #:T5 #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #本版专家分#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #:3246 #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #结帖率#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #:95.38%...#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "00C70E1E"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId5"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "008000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #bbs.csdn.net/topics/29... #
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId6"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #百度快照#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId7"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #88%#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #好评#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:vanish { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:vanish { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #为您推荐：#
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId8"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:vanish { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #msxml loadxml#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "00C70E1E"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:spacing { w:after = "15"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:outlineLvl { w:val = "2"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId9"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #Xml#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #Document.#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #LoadXml#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #上的坑#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #推酷#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #2014#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #年#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #12#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #月#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #3#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #日#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - var xml = new XmlDocument(); xml.Load("test.xml"); // <--- #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #方法#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #1 xml.#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #LoadXml#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #(File.ReadAllText("test.xml", Encoding.#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #UTF8#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #)); // <--- #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #方#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #...#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "00C70E1E"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId10"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "008000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #www.tuicool.com/articl... #
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId11"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #百度快照#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId12"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #评价#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #为您推荐：#
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId13"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #xmldocument#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #解析#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #xml#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "00C70E1E"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:spacing { w:after = "15"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:outlineLvl { w:val = "2"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId14"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #dom - PHP DOMDocument::#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #loadXML#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } # with #
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #utf#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #-8 xml input - Stack ...#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #查看此网页的中文翻译，请点击#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # #
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId15"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "24"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #翻译此页#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #$doc = new DomDocument('1.0','#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #UTF#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #-8'); i got false value in $xmldoc = DOMDocument::#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #loadXML#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #($xml); there is code function readXsltTemplateAdm...#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "00C70E1E"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId16"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "008000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #stackoverflow.com/ques... #
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId17"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #百度快照#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:hyperlink { r:id = "rId18"; w:tgtFrame = "_blank"; w:history = "1"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #93%#
+ * /w:document/w:body/w:p/w:hyperlink/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:color { w:val = "666666"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:hyperlink/w:r/w:t/#text { } #好评#
+ * /w:document/w:body/w:bookmarkStart { w:id = "0"; w:name = "_GoBack"; } ##(Null)##
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "00C70E1E"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:spacing { w:after = "15"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:outlineLvl { w:val = "2"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:fldChar { w:fldCharType = "begin"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:instrText { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:instrText/#text { } # HYPERLINK "http://www.ba#
+ * /w:document/w:body/w:p/w:r { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:instrText { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:instrText/#text { } #idu.com/link?url=-fwEUXerwKoMjxZo-OByeo_y9Rq6jhXKKN9_yL757g21PIpYzB_xulYh2JNU9xDRFbOOfQjN6cMXzPvo_OUAcPb12PQJNslPAH0QjP-KP0_" \t "_blank" #
+ * /w:document/w:body/w:p/w:r { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:fldChar { w:fldCharType = "separate"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #tiny#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #xml#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #解析#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #UTF#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #-8#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #字符集的#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #xml#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #风水月的专栏#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - #
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #博客频道#
+ * /w:document/w:body/w:p/w:r { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # - CSDN...#
+ * /w:document/w:body/w:p/w:r { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "0000CC"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "27"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:u { w:val = "single"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:fldChar { w:fldCharType = "end"; } ##(Null)##
+ * /w:document/w:body/w:bookmarkEnd { w:id = "0"; } ##(Null)##
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:b { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:bCs { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "FFFFFF"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #[#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "FFFFFF"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #原创#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:b { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:bCs { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "FFFFFF"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "18"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #]#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #作者：#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #fengshuiyue - #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #来源：#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #csdn - #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #发表时间：#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #2014#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #年#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #06#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #月#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #12#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #日#
+ * /w:document/w:body/w:p { w:rsidR = "007846D4"; w:rsidRPr = "007846D4"; w:rsidRDefault = "007846D4"; w:rsidP = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:widowControl { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:wordWrap { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:jc { w:val = "left"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:pPr/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #查找原因后发现是#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #tiny#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #xml#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #在解析#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #UTF#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #-8#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #字符集的#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #xml#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #时#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #,#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #需要特殊指定字符集才行#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #,...#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #这一通过#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #Load#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #File( TIXML_ENCODING_LEGACY ) #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #或者#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { xml:space = "preserve"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } # #
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "CC0000"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #Load#
+ * /w:document/w:body/w:p/w:r { w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:rFonts { w:ascii = "Arial"; w:eastAsia = "宋体"; w:hAnsi = "Arial"; w:cs = "Arial"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:color { w:val = "333333"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:kern { w:val = "0"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:sz { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:rPr/w:szCs { w:val = "20"; } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t { } ##(Null)##
+ * /w:document/w:body/w:p/w:r/w:t/#text { } #File( filename, TIXML...#
+ * /w:document/w:body/w:p { w:rsidR = "00227692"; w:rsidRPr = "007846D4"; w:rsidRDefault = "00C70E1E"; } ##(Null)##
+ * /w:document/w:body/w:sectPr { w:rsidR = "00227692"; w:rsidRPr = "007846D4"; } ##(Null)##
+ * /w:document/w:body/w:sectPr/w:pgSz { w:w = "11906"; w:h = "16838"; } ##(Null)##
+ * /w:document/w:body/w:sectPr/w:pgMar { w:top = "1440"; w:right = "1800"; w:bottom = "1440"; w:left = "1800"; w:header = "851"; w:footer = "992"; w:gutter = "0"; } ##(Null)##
+ * /w:document/w:body/w:sectPr/w:cols { w:space = "425"; } ##(Null)##
+ * /w:document/w:body/w:sectPr/w:docGrid { w:type = "lines"; w:linePitch = "312"; } ##(Null)##

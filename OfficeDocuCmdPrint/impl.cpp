@@ -174,23 +174,70 @@ bool PUBLIC JudgeRELSFileFromName(char* pText)
 }
 
 
+// Function: Utf82Unicode
 //
+// Desciption:
 //
-wchar_t* PUBLIC Utf82Unicode(const char* utf, size_t &unicode_len)
+// Remarks:
+//     *     ! Remember this implementation has memory risk, because of
+//        it news a memory space but DOSE NOT delete it. You have to d-
+//        elete it manually.
+//           IT IS "pwText", the RETURN VALUE.
+//
+// References
+//     Implementation from internet. "CSDN"(BBS)
+//     Blog Link:http://blog.csdn.net/infoworld/article/details/12312227
+//     Author: "infoworld"
+//                                         P.S.: Thanks for your sharing.
+wchar_t* PUBLIC Utf82Unicode(const char* utf)
 {
 	if (!utf || !strlen(utf))
-	{
-		unicode_len = 0;
-		return NULL;
-	}
+		return nullptr;
+
+	size_t unicode_len;
 	int dwUnicodeLen = MultiByteToWideChar(CP_UTF8, 0, utf, -1, NULL, 0);
 	size_t num = dwUnicodeLen*sizeof(wchar_t);
-	wchar_t *pwText = new wchar_t[num];
+	wchar_t *pwText = new wchar_t[num + 1];
+
 	memset(pwText, 0, num);
 	MultiByteToWideChar(CP_UTF8, 0, utf, -1, pwText, dwUnicodeLen);
 	unicode_len = dwUnicodeLen - 1;
+	pwText[num] = L'\0';
+
 	return pwText;
 }
+
+
+// Function: Unicode2Utf8
+//
+// Desciption:
+//
+// Remarks:
+//     *     ! Remember this implementation has memory risk, because of
+//        it news a memory space but DOSE NOT delete it. You have to d-
+//        elete it manually.
+//           IT IS "szUtf8", the RETURN VALUE.
+//
+// References
+//     Implementation from internet. "CSDN"(BBS)
+//     Blog Link:http://blog.csdn.net/infoworld/article/details/12312227
+//     Author: "infoworld"
+//                                         P.S.: Thanks for your sharing.
+char* PUBLIC Unicode2Utf8(const wchar_t* unicode)
+{
+	if (!unicode)
+		return nullptr;
+
+    int len;
+    len = WideCharToMultiByte(CP_UTF8, 0, unicode, -1, NULL, 0, NULL, NULL);
+    char *szUtf8 = new char[len + 1];
+
+    memset(szUtf8, 0, len + 1);
+    WideCharToMultiByte(CP_UTF8, 0, unicode, -1, szUtf8, len, NULL, NULL);
+
+    return szUtf8;
+}
+
 
 
 //
@@ -337,6 +384,30 @@ void _INSIDE_FUNCTION(_ShowErrorText(const int& errCode))
 
 	case -10001:
 		text = "ERROR: Failed to initialize COM.";
+		break;
+
+	case -10002:
+		text = "ERROR: Cannot unzip the file. It might be corrupted or imcomplete.";
+		break;
+
+	case -10003:
+		text = "ERROR: Cannot fetch the zip-file's global infomation.";
+		break;
+
+	case -10004:
+		text = "ERROR: Cannot read sub-file in this zip-file.";
+		break;
+
+	case -10005:
+		text = "ERROR: XML file is not xml-well-formed. It might be corrupted.";
+		break;
+
+	case -10006:
+		text = "ERROR: Cannot create an output file on disk. Check out your system access right";
+		break;
+
+	case -10007:
+		text = "ERROR: Cannot create an output file on disk. Check out your system access right";
 		break;
 
 	default:

@@ -1,0 +1,194 @@
+ * /xml { version = "1.0"; encoding = "UTF-8"; standalone = "yes"; } ##(Null)##
+ * /a:theme { xmlns:a = "http://schemas.openxmlformats.org/drawingml/2006/main"; name = "Office 主题"; } ##(Null)##
+ * /a:theme/a:themeElements { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme { name = "Office"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:dk1 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:dk1/a:sysClr { val = "windowText"; lastClr = "000000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:lt1 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:lt1/a:sysClr { val = "window"; lastClr = "FFFFFF"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:dk2 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:dk2/a:srgbClr { val = "44546A"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:lt2 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:lt2/a:srgbClr { val = "E7E6E6"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent1 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent1/a:srgbClr { val = "5B9BD5"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent2 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent2/a:srgbClr { val = "ED7D31"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent3 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent3/a:srgbClr { val = "A5A5A5"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent4 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent4/a:srgbClr { val = "FFC000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent5 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent5/a:srgbClr { val = "4472C4"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent6 { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:accent6/a:srgbClr { val = "70AD47"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:hlink { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:hlink/a:srgbClr { val = "0563C1"; } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:folHlink { } ##(Null)##
+ * /a:theme/a:themeElements/a:clrScheme/a:folHlink/a:srgbClr { val = "954F72"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme { name = "Office"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont { } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:latin { typeface = "Calibri Light"; panose = "020F0302020204030204"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:ea { typeface = ""; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:cs { typeface = ""; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Jpan"; typeface = "ＭＳ ゴシック"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Hang"; typeface = "맑은 고딕"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Hans"; typeface = "宋体"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Hant"; typeface = "新細明體"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Arab"; typeface = "Times New Roman"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Hebr"; typeface = "Times New Roman"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Thai"; typeface = "Angsana New"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Ethi"; typeface = "Nyala"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Beng"; typeface = "Vrinda"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Gujr"; typeface = "Shruti"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Khmr"; typeface = "MoolBoran"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Knda"; typeface = "Tunga"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Guru"; typeface = "Raavi"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Cans"; typeface = "Euphemia"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Cher"; typeface = "Plantagenet Cherokee"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Yiii"; typeface = "Microsoft Yi Baiti"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Tibt"; typeface = "Microsoft Himalaya"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Thaa"; typeface = "MV Boli"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Deva"; typeface = "Mangal"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Telu"; typeface = "Gautami"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Taml"; typeface = "Latha"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Syrc"; typeface = "Estrangelo Edessa"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Orya"; typeface = "Kalinga"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Mlym"; typeface = "Kartika"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Laoo"; typeface = "DokChampa"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Sinh"; typeface = "Iskoola Pota"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Mong"; typeface = "Mongolian Baiti"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Viet"; typeface = "Times New Roman"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Uigh"; typeface = "Microsoft Uighur"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:majorFont/a:font { script = "Geor"; typeface = "Sylfaen"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont { } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:latin { typeface = "Calibri"; panose = "020F0502020204030204"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:ea { typeface = ""; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:cs { typeface = ""; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Jpan"; typeface = "ＭＳ 明朝"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Hang"; typeface = "맑은 고딕"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Hans"; typeface = "宋体"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Hant"; typeface = "新細明體"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Arab"; typeface = "Arial"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Hebr"; typeface = "Arial"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Thai"; typeface = "Cordia New"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Ethi"; typeface = "Nyala"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Beng"; typeface = "Vrinda"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Gujr"; typeface = "Shruti"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Khmr"; typeface = "DaunPenh"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Knda"; typeface = "Tunga"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Guru"; typeface = "Raavi"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Cans"; typeface = "Euphemia"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Cher"; typeface = "Plantagenet Cherokee"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Yiii"; typeface = "Microsoft Yi Baiti"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Tibt"; typeface = "Microsoft Himalaya"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Thaa"; typeface = "MV Boli"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Deva"; typeface = "Mangal"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Telu"; typeface = "Gautami"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Taml"; typeface = "Latha"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Syrc"; typeface = "Estrangelo Edessa"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Orya"; typeface = "Kalinga"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Mlym"; typeface = "Kartika"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Laoo"; typeface = "DokChampa"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Sinh"; typeface = "Iskoola Pota"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Mong"; typeface = "Mongolian Baiti"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Viet"; typeface = "Arial"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Uigh"; typeface = "Microsoft Uighur"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fontScheme/a:minorFont/a:font { script = "Geor"; typeface = "Sylfaen"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme { name = "Office"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:solidFill { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:solidFill/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill { rotWithShape = "1"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "0"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:lumMod { val = "110000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "105000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:tint { val = "67000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "50000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:lumMod { val = "105000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "103000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:tint { val = "73000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "100000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:lumMod { val = "105000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "109000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:tint { val = "81000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:lin { ang = "5400000"; scaled = "0"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill { rotWithShape = "1"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "0"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "103000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:lumMod { val = "102000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:tint { val = "94000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "50000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "110000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:lumMod { val = "100000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:shade { val = "100000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "100000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:lumMod { val = "99000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "120000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:shade { val = "78000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:fillStyleLst/a:gradFill/a:lin { ang = "5400000"; scaled = "0"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln { w = "6350"; cap = "flat"; cmpd = "sng"; algn = "ctr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:solidFill { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:solidFill/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:prstDash { val = "solid"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:miter { lim = "800000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln { w = "12700"; cap = "flat"; cmpd = "sng"; algn = "ctr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:solidFill { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:solidFill/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:prstDash { val = "solid"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:miter { lim = "800000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln { w = "19050"; cap = "flat"; cmpd = "sng"; algn = "ctr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:solidFill { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:solidFill/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:prstDash { val = "solid"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:lnStyleLst/a:ln/a:miter { lim = "800000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle/a:effectLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle/a:effectLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle/a:effectLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle/a:effectLst/a:outerShdw { blurRad = "57150"; dist = "19050"; dir = "5400000"; algn = "ctr"; rotWithShape = "0"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle/a:effectLst/a:outerShdw/a:srgbClr { val = "000000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:effectStyleLst/a:effectStyle/a:effectLst/a:outerShdw/a:srgbClr/a:alpha { val = "63000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:solidFill { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:solidFill/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:solidFill { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:solidFill/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:solidFill/a:schemeClr/a:tint { val = "95000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:solidFill/a:schemeClr/a:satMod { val = "170000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill { rotWithShape = "1"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst { } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "0"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:tint { val = "93000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "150000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:shade { val = "98000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:lumMod { val = "102000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "50000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:tint { val = "98000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "130000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:shade { val = "90000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:lumMod { val = "103000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs { pos = "100000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr { val = "phClr"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:shade { val = "63000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:gsLst/a:gs/a:schemeClr/a:satMod { val = "120000"; } ##(Null)##
+ * /a:theme/a:themeElements/a:fmtScheme/a:bgFillStyleLst/a:gradFill/a:lin { ang = "5400000"; scaled = "0"; } ##(Null)##
+ * /a:theme/a:objectDefaults { } ##(Null)##
+ * /a:theme/a:extraClrSchemeLst { } ##(Null)##
+ * /a:theme/a:extLst { } ##(Null)##
+ * /a:theme/a:extLst/a:ext { uri = "{05A4C25C-085E-4340-85A3-A5531E510DB2}"; } ##(Null)##
+ * /a:theme/a:extLst/a:ext/thm15:themeFamily { xmlns:thm15 = "http://schemas.microsoft.com/office/thememl/2012/main"; name = "Office Theme"; id = "{62F939B6-93AF-4DB8-9C6B-D6C7DFDC589F}"; vid = "{4A3C46E8-61CC-4603-A589-7422A47A8E4A}"; } ##(Null)##

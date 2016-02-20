@@ -43,7 +43,8 @@ void PUBLIC	Backslash2Dash(char* pText);
 void PUBLIC	Backslash2Dash(std::string& text);
 bool PUBLIC JudgeXMLFileFromName(char* pText);
 bool PUBLIC JudgeRELSFileFromName(char* pText);
-wchar_t* PUBLIC Utf82Unicode(const char* utf, size_t &unicode_len);
+wchar_t* PUBLIC Utf82Unicode(const char* utf);
+char* PUBLIC Unicode2Utf8(const wchar_t* unicode);
 
 HRESULT	_INSIDE_FUNCTION(_GetEachUniqNode(XMLUNIQUENODELIST& list,
 	IXMLDOMNode* const pXmlNode, const CComBSTR& path);)
